@@ -7,6 +7,7 @@ using InteractiveUtils
 # ╔═╡ dec0a480-7335-11eb-1002-6970ee5a5c23
 begin
 	using Plots
+
 	pyplot()
 end
 
